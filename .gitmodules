@@ -1,0 +1,3 @@
+[submodule "Edi-sub"]
+	path = Edi-sub
+	url = https://github.com/edibwi/Edi-sub
